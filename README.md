@@ -4,14 +4,15 @@ O funcionamento do projeto possui o intuito de realizar uma validação de candi
 
 💻**Construção**
 
-A construção do código foi realizado com a linguagem de programação java
-com segmentos de programação orientada a objetos abstraindo o mundo real.
+Java 
+
+Intellij
 
 📋**Pré-requisitos**
 
 Java Jdk
 
-Intellij
+IDE de preferência 
 
 ▶️**Instalação**
 
